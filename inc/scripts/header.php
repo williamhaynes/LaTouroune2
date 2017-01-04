@@ -7,7 +7,7 @@ session_start(); //start the session
 <head>
     <meta charset="UTF-8">
     <title>La Touroune</title>
-    <link rel="stylesheet" type="text/css" href="/style/style.css">
+    <link rel="stylesheet" type="text/css" href="../style/style.css">
     <!-- Font link -->
     <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
 </head>
