@@ -48,11 +48,7 @@ body{
 
 /* NAVIGATION BAR*/
 nav ul {
-    font-family: 'Dosis', sans-serif;
-    font-size: 150%;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
     overflow: hidden;
 }
 nav li {
@@ -77,17 +73,19 @@ nav li a :hover {
     left: 0%;
     text-align: center;
     width: 33%;
+    font-family: 'Arima Madurai', cursive;
 }
 #centreDiv{
     position: fixed;
     left: 33%;
     text-align: center;
     width: 33%;
-    font-family: 'Arima Madurai', cursive;
+    font-family: 'Tangerine', cursive;
 }
 #rightDiv{
     position: fixed;
     left: 66%;
     text-align: center;
     width: 33%;
+    font-family: 'Arima Madurai', cursive;
 }

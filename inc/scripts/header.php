@@ -9,7 +9,7 @@ session_start(); //start the session
     <title>La Touroune</title>
     <link rel="stylesheet" type="text/css" href="../../style/style.css">
     <!-- Font link -->
-    <link href="https://fonts.googleapis.com/css?family=Arima+Madurai" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Arima+Madurai|Tangerine" rel="stylesheet">
 </head>
 <header>
     <nav id="topNavBar">
