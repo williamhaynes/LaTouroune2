@@ -1,6 +1,14 @@
+/*
+Colour Blend
+Rust: #B56357
+Mint: #B4D8C0
+Slate: #EAE3EA
+Seafoam: #A7B3A5
+*/
+
 /* HEADER */
 header{
-    background-color: #EAE3EA;
+    background-color: #B56357;
     z-index: 10;
     height: 62px;
     width: 100%;
@@ -16,7 +24,7 @@ header{
 
 /* FOOTER */
 footer {
-    background-color: #EAE3EA;
+    background-color: #B56357;
     z-index: 9;
     height: 42px;
     width: 100%;
@@ -33,7 +41,7 @@ footer {
 body{
     /*background-image: url(background.jpg);
     background-size: cover;*/
-    background-color: #FFFFFF;
+    background-color: #EAE3EA;
     margin-bottom: 48px;
     z-index: 5;
 }
