@@ -80,6 +80,7 @@ h1{
     width: 33%;
     height: 62px;
     font-family: 'Arima Madurai', cursive;
+    margin: 0;
 }
 #centreDiv{
     position: fixed;
