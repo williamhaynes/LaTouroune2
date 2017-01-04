@@ -14,7 +14,7 @@ session_start(); //start the session
 <header>
     <nav id="topNavBar">
         <div id="leftDiv">
-
+            <h1>leftDiv</h1>
         </div>
         <div id="centreDiv">
             <h1>La Touroune</h1>
