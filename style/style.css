@@ -73,6 +73,7 @@ nav li a :hover {
     left: 0%;
     text-align: center;
     width: 33%;
+    height: 62px;
     font-family: 'Arima Madurai', cursive;
 }
 #centreDiv{
@@ -83,7 +84,8 @@ nav li a :hover {
     font-family: 'Tangerine', cursive;
     color: #A7B3A5;
     font-size: 200%;
-    height: 52px;
+    height: 62px;
+    padding: 0px;
 }
 #rightDiv{
     position: fixed;
@@ -91,4 +93,5 @@ nav li a :hover {
     text-align: center;
     width: 33%;
     font-family: 'Arima Madurai', cursive;
+    height: 62px;
 }
