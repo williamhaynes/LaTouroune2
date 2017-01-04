@@ -1,14 +1,15 @@
 /*
 Colour Blend
-Rust: #B56357
-Mint: #B4D8C0
-Slate: #EAE3EA
-Seafoam: #A7B3A5
+#101723 : Eerie Black
+#D16014 : Alloy Orange
+#EEDF3D : Sandstorm
+#28502E : Cal Poly Pomona Green
+#47682C : Deep Spring Bud
 */
 
 /* HEADER */
 header{
-    background-color: #EAE3EA;
+    background-color: #101723;
     z-index: 10;
     height: 62px;
     width: 100%;
@@ -23,7 +24,7 @@ header{
 
 /* FOOTER */
 footer {
-    background-color: #EAE3EA;
+    background-color: #101723;
     z-index: 9;
     height: 42px;
     width: 100%;
@@ -71,7 +72,7 @@ h1{
     font-family: 'Tangerine', cursive;
     font-size: 2.5em;
     padding: 10px;
-    color: #B4D8C0;
+    color: #D16014;
 }
 
 h2{
