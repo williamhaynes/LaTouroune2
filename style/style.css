@@ -73,3 +73,17 @@ nav li a :hover {
     color: darkred;
     /*background-color: #111;*/
 }
+
+#leftDiv{
+    position: fixed;
+    left: 0%;
+}
+#centreDiv{
+    position: fixed;
+    left: 33%;
+}
+#rightDiv{
+    position: fixed;
+    left: 66%;
+
+}

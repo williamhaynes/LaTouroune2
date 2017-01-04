@@ -21,10 +21,10 @@ session_start(); //start the session
         </div>
         <div id="rightDiv">
             <ul id="">
-                <li id=""><img id="" src="" alt=""></li>
-                <li id=""><a href=""></a></li>
-                <li id=""><a href=""></a></li>
-                <li id=""><a href=""></a></li>
+                <li id=""><img id="" src="" alt="">About</li>
+                <li id=""><a href=""></a>Book</li>
+                <li id=""><a href=""></a>Tree</li>
+                <li id=""><a href=""></a>Free</li>
             </ul>
         </div>
     </nav>
