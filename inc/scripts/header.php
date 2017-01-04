@@ -13,13 +13,13 @@ session_start(); //start the session
 </head>
 <header>
     <nav id="topNavBar">
-        <div class="leftDiv">
+        <div id="leftDiv">
             <h1>Southern France</h1>
         </div>
-        <div class="centreDiv">
+        <div id="centreDiv">
             <h1>La Touroune</h1>
         </div>
-        <div class="rightDiv">
+        <div id="rightDiv">
             <ul id="">
                 <li id=""><a href="">About</a></li>
                 <li id=""><a href="">Book</a></li>
