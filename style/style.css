@@ -81,6 +81,8 @@ nav li a :hover {
     text-align: center;
     width: 33%;
     font-family: 'Tangerine', cursive;
+    color: #A7B3A5;
+    font-size: 200%;
 }
 #rightDiv{
     position: fixed;
