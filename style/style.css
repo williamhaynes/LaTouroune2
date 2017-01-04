@@ -78,14 +78,17 @@ nav li a :hover {
     position: fixed;
     left: 0%;
     text-align: center;
+    width: 33%;
 }
 #centreDiv{
     position: fixed;
     left: 33%;
     text-align: center;
+    width: 33%;
 }
 #rightDiv{
     position: fixed;
     left: 66%;
     text-align: center;
+    width: 33%;
 }
