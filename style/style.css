@@ -83,7 +83,7 @@ nav li a :hover {
     font-family: 'Tangerine', cursive;
     color: #A7B3A5;
     font-size: 200%;
-    height: auto;
+    height: 52px;
 }
 #rightDiv{
     position: fixed;
