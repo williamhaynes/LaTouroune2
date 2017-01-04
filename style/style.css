@@ -11,6 +11,7 @@ header{
     margin-bottom: 0px;
     border-top: solid 1px black;
     border-bottom: solid 1px white;
+    float: left;
 }
 
 /* FOOTER */
@@ -48,7 +49,7 @@ nav ul {
 }
 nav li {
     float: left;
-    background-color: #333;
+    /*background-color: #333;*/
 }
 
 nav li a {
@@ -62,5 +63,5 @@ nav li a {
 
 nav li a :hover {
     color: darkred;
-    background-color: #111;
+    /*background-color: #111;*/
 }
