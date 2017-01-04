@@ -59,8 +59,7 @@ nav li {
 nav li a {
     display: block;
     color: black;
-    text-align: center;
-    text-decoration: none;
+
 }
 
 nav li a :hover {
@@ -70,17 +69,17 @@ nav li a :hover {
 
 h1{
     margin: 0px;
+    font-family: 'Arima Madurai', cursive;
 }
 
-#leftDiv{
+.leftDiv{
     position: fixed;
     left: 0%;
     text-align: center;
     width: 33%;
     height: 62px;
-    font-family: 'Arima Madurai', cursive;
 }
-#centreDiv{
+.centreDiv{
     position: fixed;
     left: 33%;
     text-align: center;
@@ -91,11 +90,18 @@ h1{
     height: 62px;
 
 }
-#rightDiv{
+.rightDiv{
     position: fixed;
     left: 66%;
     text-align: center;
     width: 33%;
     font-family: 'Arima Madurai', cursive;
     height: 62px;
+}
+
+#checkAvailAndBook{
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    color: black;
 }

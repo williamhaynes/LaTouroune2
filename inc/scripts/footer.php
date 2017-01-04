@@ -1,12 +1,12 @@
 <!--Footer at end of each web page -->
 <footer>
-    <div id="leftDiv"></div>
-    <div id="centreDiv">
+    <div class="leftDiv"></div>
+    <div class="centreDiv">
         <nav id="baseNavBar">
-            <a href="">Check Availability & Book Now</a>
+            <a id="checkAvailAndBook" href="">Check Availability & Book Now</a>
         </nav>
     </div>
-    <div id="rightDiv">
+    <div class="rightDiv">
         <p>(c)2017 - W. Haynes</p>
     </div>
 </footer>
